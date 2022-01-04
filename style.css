@@ -1,0 +1,70 @@
+body{
+    font-family: 'Oswald', sans-serif;
+    font-family: 'Quicksand', sans-serif;
+    margin: 0;
+    padding: 0;
+
+}
+.flexible-section{
+    display: flex;
+    margin-bottom: 150px;
+    padding: 50px;
+    justify-content: space-around;
+}
+h1{
+    font-size: 50px;
+}
+h2{
+    font-size: 20px;
+}
+p{
+    text-align: justify;
+    border: lawngreen 5px;
+}
+.first-intro{
+    width: 60%;
+    padding-right:5%;
+}
+.shimul-bg{
+    width: 80%;
+}
+
+a{
+    background-color: orange;
+    color: blue;
+    text-decoration: none;
+    text-align: center;
+    padding: 10px 20px;
+    border-radius: 5px;
+    border: solid;
+    display: inline-block;
+}
+a:hover, a:active{
+    background-color: green;
+    
+}
+
+.Green-color{
+    color: green;
+}
+.top_banner{
+    background-image: url(images/top-banner.png);
+    background-repeat: none;
+}
+.experince-area{
+    text-align: center;
+    margin: 20px;
+}
+.exp{
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+}
+.full-stack{
+    width: 250px;
+    border: 1px solid gray;
+    box-shadow: 4px 4px 12px;
+    border-radius: 5px;
+}
+.foot-note{
+    text-align: justify;
+}
